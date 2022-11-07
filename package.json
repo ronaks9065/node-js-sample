@@ -2,7 +2,7 @@
   "name": "nodejsexamples",
   "version": "1.0.0",
   "description": "This Project explains all Node JS examples",
-  "main": "app.js",
+  "main": "index.js",
   "publishConfig": {
     "registry": "http://3.111.150.223:9980/mithuntechnologies/repository/nodejsrepomss/"
   },
