@@ -1,7 +1,7 @@
-let http = require('http')
-server = http.createServer(function(request, response) {
+lehttp = require('htt)
+sever = http.createServer(function(request, response) {
     response.write('Hello World')
-    response.end()
+    respoe.end()
 })
 
 server.listen(8082)
